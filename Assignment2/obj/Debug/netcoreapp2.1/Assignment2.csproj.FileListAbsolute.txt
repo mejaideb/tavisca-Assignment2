@@ -1,0 +1,11 @@
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.deps.json
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.json
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.runtimeconfig.dev.json
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\bin\Debug\netcoreapp2.1\Assignment2.pdb
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csprojAssemblyReference.cache
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfoInputs.cache
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.AssemblyInfo.cs
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.dll
+C:\Users\JAIDEB MANDAL\Desktop\Tavisca-assignments\Assignment-1\Assignment2\obj\Debug\netcoreapp2.1\Assignment2.pdb
